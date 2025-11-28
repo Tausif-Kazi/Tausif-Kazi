@@ -1,8 +1,3 @@
-Here is a **creative, polished GitHub Profile README** tailored to your resume, expertise, leadership background, and BI + Data Engineering journey.
-Citations included as required: 
-
----
-
 # 🌟 **Tausif Kazi – Data Engineering & BI Architect**
 
 ### *Turning complex data into meaningful stories & scalable pipelines*
@@ -20,7 +15,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 * 📊 **BI Architecture (11+ years)** – Tableau, Power BI, Sigma
 * 🧱 **Data Modeling & Governance** – Medallion Architecture, DWH design
 * ☁️ **Cloud Expertise** – Azure, Snowflake
-* 🧑‍🤝‍🧑 **Team Leadership** – Led teams of 6+ engineers & analysts
+* 🧑‍🤝‍🧑 **Team Leadership** – Led teams of 10+ engineers & analysts
 * ⚙️ **Automation Focused** – Reduced manual reporting by 80+ hours/month
 * 🏎️ Migrated legacy systems (OBIEE ➝ Snowflake) with **40% faster queries** & **30% compute savings** 
 * 🖥️ Designed scalable dashboards with modern UI/UX best practices
