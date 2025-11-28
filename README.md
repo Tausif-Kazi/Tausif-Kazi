@@ -8,6 +8,11 @@ I’m **Tausif**, a Data Engineering & Business Intelligence Consultant with **1
 I specialize in crafting **end-to-end cloud data architectures**, implementing **self-service BI**, and enabling organizations to turn raw data into actionable intelligence.
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/www.twitter.com/vizbytk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="www.twitter.com/vizbytk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tausifkazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tausifkazi/" height="30" width="40" /></a>
+</p>
 
 ## 🚀 **About Me**
 
@@ -79,9 +84,6 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 🔗 **Tableau Public:**
 [https://public.tableau.com/app/profile/tausif.kazi/vizzes#!/](https://public.tableau.com/app/profile/tausif.kazi/vizzes#!/)
 
-🔗 **LinkedIn:**
-[https://www.linkedin.com/in/tausifkazi/](https://www.linkedin.com/in/tausifkazi/)
-
 ---
 
 ## 🎨 **Fun & Creative Section**
@@ -90,7 +92,6 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 
 * 🎮 I explore data through visualization challenges
 * 🧪 Experiment with modern BI UX layouts
-* 🎧 Tune into tech podcasts on architecture & analytics
 * ✍️ Write about BI, Spark, and Data Engineering concepts
 
 ---
