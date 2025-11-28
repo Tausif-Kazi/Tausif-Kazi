@@ -1,5 +1,3 @@
-![logo] (https://github.com/Tausif-Kazi/Tausif-Kazi/blob/main/Banner.png)
-
 # 🌟 **Tausif Kazi – Data Engineering & BI Architect**
 
 ### *Turning complex data into meaningful stories & scalable pipelines*
