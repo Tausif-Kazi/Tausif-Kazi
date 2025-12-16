@@ -16,7 +16,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 
 ## 🚀 **About Me**
 
-* 🔧 **Data Engineering (3+ years)** – ADF, Databricks, PySpark, Snowflake
+* 🔧 **Data Engineering (3+ years)** – ADF, Databricks, PySpark, Snowflake, DBT
 * 📊 **BI Architecture (11+ years)** – Tableau, Power BI, Sigma
 * 🧱 **Data Modeling & Governance** – Medallion Architecture, DWH design
 * ☁️ **Cloud Expertise** – Azure, Snowflake
@@ -40,7 +40,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 * Azure Data Factory
 * Azure Databricks
 * Snowflake
-* Delta Lake / Parquet
+* DBT
 
 ### **📊 BI Tools**
 
