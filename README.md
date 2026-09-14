@@ -19,10 +19,10 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 * 🔧 **Data Engineering (3+ years)** – ADF, On-Prem to Cloud Data Migration, Lakehouse, Warehouse, Data Governance, Microsoft Fabric
 * 📊 **BI Architecture (11+ years)** – Tableau, Power BI, Sigma
 * 🧱 **Data Modeling & Governance** – Medallion Architecture, DWH design
-* ☁️ **Cloud Expertise** – Azure, Snowflake
+* ☁️ **Cloud Expertise** – Azure, Databricks
 * 🧑‍🤝‍🧑 **Team Leadership** – Led teams of 10+ engineers & analysts
 * ⚙️ **Automation Focused** – Reduced manual reporting by 80+ hours/month
-* 🏎️ Migrated legacy systems (OBIEE ➝ Snowflake) with **40% faster queries** & **30% compute savings** 
+* 🏎️ Migrated legacy systems (D365 -> Ms Fabric) with **40% faster queries** & **30% compute savings** 
 * 🖥️ Designed scalable dashboards with modern UI/UX best practices
 * 📈 Passionate about **Analytics, Engineering, and great data storytelling**
 
