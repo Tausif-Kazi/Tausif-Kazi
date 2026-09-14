@@ -1,4 +1,4 @@
-# 🌟 **Tausif Kazi – Data Engineering & BI Architect**
+# 🌟 **Tausif Kazi – Analytics and Data Engineering**
 
 ### *Turning complex data into meaningful stories & scalable pipelines*
 
@@ -16,7 +16,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 
 ## 🚀 **About Me**
 
-* 🔧 **Data Engineering (3+ years)** – ADF, Databricks, PySpark, Snowflake, DBT
+* 🔧 **Data Engineering (3+ years)** – ADF, On-Prem to Cloud Data Migration, Lakehouse, Warehouse, Data Governance, Microsoft Fabric
 * 📊 **BI Architecture (11+ years)** – Tableau, Power BI, Sigma
 * 🧱 **Data Modeling & Governance** – Medallion Architecture, DWH design
 * ☁️ **Cloud Expertise** – Azure, Snowflake
@@ -39,8 +39,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 
 * Azure Data Factory
 * Azure Databricks
-* Snowflake
-* DBT
+* Microsoft Fabric
 
 ### **📊 BI Tools**
 
@@ -51,7 +50,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 ### **🗄 Databases**
 
 * SQL Server
-* Snowflake
+* Microsoft Fabric
 
 ---
 
