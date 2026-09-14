@@ -1,4 +1,4 @@
-# 🌟 **Tausif Kazi – Analytics and Data Engineering**
+# 🌟 **Tausif Kazi – AI/BI Architect and Data Engineering**
 
 ### *Turning complex data into meaningful stories & scalable pipelines*
 
@@ -44,7 +44,7 @@ I specialize in crafting **end-to-end cloud data architectures**, implementing *
 ### **📊 BI Tools**
 
 * Tableau
-* Power BI
+* Power BI, Paginated Report Specialist
 * Sigma Computing
 
 ### **🗄 Databases**
